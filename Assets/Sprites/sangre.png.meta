@@ -1,0 +1,1902 @@
+fileFormatVersion: 2
+guid: 99134536bcca5dc469b0b6f1357a2575
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4132806742358380604
+    second: sangre_0
+  - first:
+      213: -5967799980714810887
+    second: sangre_1
+  - first:
+      213: -6403518709746538166
+    second: sangre_2
+  - first:
+      213: -1974566516320592248
+    second: sangre_3
+  - first:
+      213: -5025073613858497030
+    second: sangre_4
+  - first:
+      213: 358327583317582781
+    second: sangre_5
+  - first:
+      213: -4317386220446706198
+    second: sangre_6
+  - first:
+      213: 7602729334943352873
+    second: sangre_7
+  - first:
+      213: 29989106620618977
+    second: sangre_8
+  - first:
+      213: -7730382979171379955
+    second: sangre_9
+  - first:
+      213: -5366577930840856695
+    second: sangre_10
+  - first:
+      213: -5604085070673094782
+    second: sangre_11
+  - first:
+      213: 1060462664955300366
+    second: sangre_12
+  - first:
+      213: 3936760722181657302
+    second: sangre_13
+  - first:
+      213: -8140730096440286536
+    second: sangre_14
+  - first:
+      213: -6456893992597875941
+    second: sangre_15
+  - first:
+      213: -6521924708424150883
+    second: sangre_16
+  - first:
+      213: 8906085526441375730
+    second: sangre_17
+  - first:
+      213: 8210694683668357906
+    second: sangre_18
+  - first:
+      213: -7711613842640470515
+    second: sangre_19
+  - first:
+      213: 1225194140590664332
+    second: sangre_20
+  - first:
+      213: -6216026204157542455
+    second: sangre_21
+  - first:
+      213: -7644949277429821349
+    second: sangre_22
+  - first:
+      213: -8572660802588142384
+    second: sangre_23
+  - first:
+      213: 5471726395125230903
+    second: sangre_24
+  - first:
+      213: -2908502693560433790
+    second: sangre_25
+  - first:
+      213: -7358892994000182288
+    second: sangre_26
+  - first:
+      213: -6259073524685866292
+    second: sangre_27
+  - first:
+      213: 1257060938037820156
+    second: sangre_28
+  - first:
+      213: -5574229914802073250
+    second: sangre_29
+  - first:
+      213: 4411945841639678633
+    second: sangre_30
+  - first:
+      213: -8746206029711337477
+    second: sangre_31
+  - first:
+      213: 6796430612265175133
+    second: sangre_32
+  - first:
+      213: 5251634435240817006
+    second: sangre_33
+  - first:
+      213: -4503292165226234
+    second: sangre_34
+  - first:
+      213: -7778860877294058718
+    second: sangre_35
+  - first:
+      213: 7054548530270356502
+    second: sangre_36
+  - first:
+      213: 5929890439125944378
+    second: sangre_37
+  - first:
+      213: 5442748113578957532
+    second: sangre_38
+  - first:
+      213: -6613263949819565240
+    second: sangre_39
+  - first:
+      213: 6210526984811173925
+    second: sangre_40
+  - first:
+      213: -4734691392632876335
+    second: sangre_41
+  - first:
+      213: 7520166108634278677
+    second: sangre_42
+  - first:
+      213: 2576736921454531021
+    second: sangre_43
+  - first:
+      213: 3022129960094064186
+    second: sangre_44
+  - first:
+      213: 1425000383970627183
+    second: sangre_45
+  - first:
+      213: -5754941607907034350
+    second: sangre_46
+  - first:
+      213: -3693688777301985062
+    second: sangre_47
+  - first:
+      213: 2460889274367121806
+    second: sangre_48
+  - first:
+      213: 8252148952194878591
+    second: sangre_49
+  - first:
+      213: -5103471393284978556
+    second: sangre_50
+  - first:
+      213: -8818250904093833189
+    second: sangre_51
+  - first:
+      213: -1190637851826636798
+    second: sangre_52
+  - first:
+      213: 2082768815424440571
+    second: sangre_53
+  - first:
+      213: -7159282465278300929
+    second: sangre_54
+  - first:
+      213: -7568116476207718838
+    second: sangre_55
+  - first:
+      213: 1915326616854778804
+    second: sangre_56
+  - first:
+      213: -8961511663255849299
+    second: sangre_57
+  - first:
+      213: 2556585262566388081
+    second: sangre_58
+  - first:
+      213: 1899980502849681100
+    second: sangre_59
+  - first:
+      213: 809224889115520474
+    second: sangre_60
+  - first:
+      213: 5429826291480374477
+    second: sangre_61
+  - first:
+      213: 420325836378298238
+    second: sangre_62
+  - first:
+      213: -3407991343517669675
+    second: sangre_63
+  - first:
+      213: 966867588333182370
+    second: sangre_64
+  - first:
+      213: 3582671084483424855
+    second: sangre_65
+  - first:
+      213: 6923211357469889171
+    second: sangre_66
+  - first:
+      213: 4509751339959885861
+    second: sangre_67
+  - first:
+      213: 4735815398914771845
+    second: sangre_68
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sangre_1
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 364
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f129ea498d1e2da0800000000000000
+      internalID: -5967799980714810887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 357
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a496df829a12227a0800000000000000
+      internalID: -6403518709746538166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_3
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 356
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e9451173ee894e0800000000000000
+      internalID: -1974566516320592248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 366
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd96c31c2a534ab0800000000000000
+      internalID: -5025073613858497030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_5
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 365
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db36edcd90909f400800000000000000
+      internalID: 358327583317582781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_6
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 359
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae59b146b109514c0800000000000000
+      internalID: -4317386220446706198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_7
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 367
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9288db49c02528960800000000000000
+      internalID: 7602729334943352873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_8
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 355
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8d04ffeea8a6000800000000000000
+      internalID: 29989106620618977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_9
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 339
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0593c443a928b490800000000000000
+      internalID: -7730382979171379955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_10
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 342
+        width: 76
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987a7c42ec51685b0800000000000000
+      internalID: -5366577930840856695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_11
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 358
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287d577e15a4a32b0800000000000000
+      internalID: -5604085070673094782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_12
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 340
+        width: 52
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a893adc2587be00800000000000000
+      internalID: 1060462664955300366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 666
+        height: 375
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2195bd40f22a630800000000000000
+      internalID: 3936760722181657302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_14
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 345
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b26855db11560f80800000000000000
+      internalID: -8140730096440286536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_15
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 341
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1399d2bf118466a0800000000000000
+      internalID: -6456893992597875941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_16
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 349
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90198648087d75a0800000000000000
+      internalID: -6521924708424150883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_17
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 356
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f739ce8995c89b70800000000000000
+      internalID: 8906085526441375730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_18
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 348
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213ad3b005f32f170800000000000000
+      internalID: 8210694683668357906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_19
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 350
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0efd686118daf490800000000000000
+      internalID: -7711613842640470515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_20
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 352
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8aebca5493c00110800000000000000
+      internalID: 1225194140590664332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_21
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 335
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf7baae91d3cb9a0800000000000000
+      internalID: -6216026204157542455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_22
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 347
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b509ae8032fa7e590800000000000000
+      internalID: -7644949277429821349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_23
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 338
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d491d18b6ac70980800000000000000
+      internalID: -8572660802588142384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_24
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 335
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d61997a2a7feb40800000000000000
+      internalID: 5471726395125230903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_25
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 335
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283401ac53ce2a7d0800000000000000
+      internalID: -2908502693560433790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 326
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f32280afc5ffd990800000000000000
+      internalID: -7358892994000182288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_27
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 327
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccafb029acd4329a0800000000000000
+      internalID: -6259073524685866292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_28
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 308
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa73c0534af17110800000000000000
+      internalID: 1257060938037820156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_29
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 314
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51dddf0d6b54a2b0800000000000000
+      internalID: -5574229914802073250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_30
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 321
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2e1331e516a3d30800000000000000
+      internalID: 4411945841639678633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_31
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 324
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf71da294fb3f9680800000000000000
+      internalID: -8746206029711337477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_32
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 315
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5808a002a5c15e50800000000000000
+      internalID: 6796430612265175133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_33
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 303
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61fcbac1bd81e840800000000000000
+      internalID: 5251634435240817006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_34
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 296
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6010c26974000fff0800000000000000
+      internalID: -4503292165226234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_35
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 301
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22344bb0f3feb0490800000000000000
+      internalID: -7778860877294058718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_36
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 283
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614c48df28ac6e160800000000000000
+      internalID: 7054548530270356502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_37
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 308
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38461dbfe33b4250800000000000000
+      internalID: 5929890439125944378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_38
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 291
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda1dc78296888b40800000000000000
+      internalID: 5442748113578957532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_39
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 294
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84bab19e977f834a0800000000000000
+      internalID: -6613263949819565240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_40
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 295
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528d5ad4369303650800000000000000
+      internalID: 6210526984811173925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_41
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 298
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2940d834ffa4eb0800000000000000
+      internalID: -4734691392632876335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_42
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 295
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51be3157b3ffc5860800000000000000
+      internalID: 7520166108634278677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_43
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 291
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc15ee2f39862c320800000000000000
+      internalID: 2576736921454531021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_44
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 290
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ed870df23c0f920800000000000000
+      internalID: 3022129960094064186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_45
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 283
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e4d5b9c4e96c310800000000000000
+      internalID: 1425000383970627183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_46
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 288
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21bf59d39175220b0800000000000000
+      internalID: -5754941607907034350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_47
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 288
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8711680a16dbcc0800000000000000
+      internalID: -3693688777301985062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_48
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 274
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e899836b1c5d62220800000000000000
+      internalID: 2460889274367121806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_49
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 281
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c003110c5858270800000000000000
+      internalID: 8252148952194878591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_50
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 283
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48881e1aec3dc29b0800000000000000
+      internalID: -5103471393284978556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_51
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 271
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18483916874f9580800000000000000
+      internalID: -8818250904093833189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_52
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 277
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2083db99e210a7fe0800000000000000
+      internalID: -1190637851826636798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_53
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 276
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf882a0e33b77ec10800000000000000
+      internalID: 2082768815424440571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_54
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 259
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc6762878e15ac90800000000000000
+      internalID: -7159282465278300929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_55
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 256
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e9bd89926a8f690800000000000000
+      internalID: -7568116476207718838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_56
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 262
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3da72096b949a10800000000000000
+      internalID: 1915326616854778804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_57
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 260
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da67d155f9052a380800000000000000
+      internalID: -8961511663255849299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_58
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 250
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171b44d30c0da7320800000000000000
+      internalID: 2556585262566388081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_59
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 243
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6f58863361e5a10800000000000000
+      internalID: 1899980502849681100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_60
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 245
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adda22bcfb1fa3b00800000000000000
+      internalID: 809224889115520474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_61
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 245
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcca3cf5e3e9a5b40800000000000000
+      internalID: 5429826291480374477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_62
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 241
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e775f370f1c45d500800000000000000
+      internalID: 420325836378298238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_63
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 250
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6e50cede164b0d0800000000000000
+      internalID: -3407991343517669675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 666
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad107be2f00b6d00800000000000000
+      internalID: 966867588333182370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_65
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 234
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752b2b99e5438b130800000000000000
+      internalID: 3582671084483424855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_66
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 236
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39251f28c00341060800000000000000
+      internalID: 6923211357469889171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_67
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 237
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520a6a333fad59e30800000000000000
+      internalID: 4509751339959885861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sangre_68
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 233
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58bc32e830ff8b140800000000000000
+      internalID: 4735815398914771845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1feffd126d5873940be02198e364537f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sangre_0: -4132806742358380604
+      sangre_1: -5967799980714810887
+      sangre_10: -5366577930840856695
+      sangre_11: -5604085070673094782
+      sangre_12: 1060462664955300366
+      sangre_13: 3936760722181657302
+      sangre_14: -8140730096440286536
+      sangre_15: -6456893992597875941
+      sangre_16: -6521924708424150883
+      sangre_17: 8906085526441375730
+      sangre_18: 8210694683668357906
+      sangre_19: -7711613842640470515
+      sangre_2: -6403518709746538166
+      sangre_20: 1225194140590664332
+      sangre_21: -6216026204157542455
+      sangre_22: -7644949277429821349
+      sangre_23: -8572660802588142384
+      sangre_24: 5471726395125230903
+      sangre_25: -2908502693560433790
+      sangre_26: -7358892994000182288
+      sangre_27: -6259073524685866292
+      sangre_28: 1257060938037820156
+      sangre_29: -5574229914802073250
+      sangre_3: -1974566516320592248
+      sangre_30: 4411945841639678633
+      sangre_31: -8746206029711337477
+      sangre_32: 6796430612265175133
+      sangre_33: 5251634435240817006
+      sangre_34: -4503292165226234
+      sangre_35: -7778860877294058718
+      sangre_36: 7054548530270356502
+      sangre_37: 5929890439125944378
+      sangre_38: 5442748113578957532
+      sangre_39: -6613263949819565240
+      sangre_4: -5025073613858497030
+      sangre_40: 6210526984811173925
+      sangre_41: -4734691392632876335
+      sangre_42: 7520166108634278677
+      sangre_43: 2576736921454531021
+      sangre_44: 3022129960094064186
+      sangre_45: 1425000383970627183
+      sangre_46: -5754941607907034350
+      sangre_47: -3693688777301985062
+      sangre_48: 2460889274367121806
+      sangre_49: 8252148952194878591
+      sangre_5: 358327583317582781
+      sangre_50: -5103471393284978556
+      sangre_51: -8818250904093833189
+      sangre_52: -1190637851826636798
+      sangre_53: 2082768815424440571
+      sangre_54: -7159282465278300929
+      sangre_55: -7568116476207718838
+      sangre_56: 1915326616854778804
+      sangre_57: -8961511663255849299
+      sangre_58: 2556585262566388081
+      sangre_59: 1899980502849681100
+      sangre_6: -4317386220446706198
+      sangre_60: 809224889115520474
+      sangre_61: 5429826291480374477
+      sangre_62: 420325836378298238
+      sangre_63: -3407991343517669675
+      sangre_64: 966867588333182370
+      sangre_65: 3582671084483424855
+      sangre_66: 6923211357469889171
+      sangre_67: 4509751339959885861
+      sangre_68: 4735815398914771845
+      sangre_7: 7602729334943352873
+      sangre_8: 29989106620618977
+      sangre_9: -7730382979171379955
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

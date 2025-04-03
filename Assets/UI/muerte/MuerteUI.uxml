@@ -1,0 +1,9 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/muerte/UimuerteStyle.uss?fileID=7433441132597879392&amp;guid=48bbe1ed141bcbb4d950c9abd7c8fb04&amp;type=3#UimuerteStyle" />
+    <ui:VisualElement name="root" class="full-screen">
+        <ui:VisualElement name="death-container" class="death-container" style="width: 620px; -unity-font-definition: url(&quot;project://database/Assets/UI/Login/CyberwayRiders-lg97d.ttf?fileID=12800000&amp;guid=fd087ffa40601cb88bc04136f5f22aa1&amp;type=3#CyberwayRiders-lg97d&quot;); background-color: rgb(50, 0, 0);">
+            <ui:Label text="YOU  DIED" display-tooltip-when-elided="true" name="death-text" class="death-text" />
+            <ui:Button text="TRY AGAIN" display-tooltip-when-elided="true" name="retry-button" class="retry-button" style="width: 338px; -unity-font-definition: url(&quot;project://database/Assets/Sprites/fonts/Cyberpunks.otf?fileID=12800000&amp;guid=d1b0fdf8cadb177419fa6c5608d39665&amp;type=3#Cyberpunks&quot;); height: 70px; font-size: 26px; color: rgb(255, 255, 255);" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

@@ -1,0 +1,50 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="NetworkManager.uss" />
+    <ui:VisualElement name="network-panel" class="panel">
+        <ui:VisualElement name="header" class="header">
+            <ui:Label text="Network Manager" name="title" class="title" />
+            <ui:Button text="X" name="close-button" class="close-button" />
+        </ui:VisualElement>
+        
+        <ui:VisualElement name="content" class="content">
+            <!-- Estado actual -->
+            <ui:Label name="status-label" text="No conectado" class="status-label" />
+            
+            <!-- Controles iniciales (no conectado) -->
+            <ui:VisualElement name="initial-controls" class="controls-section">
+                <ui:Button text="Host (Servidor + Cliente)" name="host-button" class="button primary-button" />
+                
+                <ui:VisualElement class="horizontal-group">
+                    <ui:Button text="Cliente" name="client-button" class="button primary-button" />
+                    <ui:TextField name="address-field" value="localhost" class="address-field" />
+                    <ui:TextField name="port-field" value="7777" class="port-field" />
+                </ui:VisualElement>
+                
+                <ui:Button text="Solo Servidor" name="server-button" class="button secondary-button" />
+            </ui:VisualElement>
+            
+            <!-- Controles cuando está conectando -->
+            <ui:VisualElement name="connecting-controls" class="controls-section" style="display: none;">
+                <ui:Button text="Cancelar conexión" name="cancel-button" class="button cancel-button" />
+            </ui:VisualElement>
+            
+            <!-- Controles de cliente conectado -->
+            <ui:VisualElement name="client-controls" class="controls-section" style="display: none;">
+                <ui:Button text="Detener Cliente" name="stop-client-button" class="button stop-button" />
+            </ui:VisualElement>
+            
+            <!-- Controles de servidor -->
+            <ui:VisualElement name="server-controls" class="controls-section" style="display: none;">
+                <ui:Button text="Detener Servidor" name="stop-server-button" class="button stop-button" />
+            </ui:VisualElement>
+            
+            <!-- Controles de host -->
+            <ui:VisualElement name="host-controls" class="controls-section" style="display: none;">
+                <ui:Button text="Detener Host" name="stop-host-button" class="button stop-button" />
+            </ui:VisualElement>
+            
+            <!-- Botón Ready -->
+            <ui:Button text="Cliente Listo" name="ready-button" class="button ready-button" style="display: none;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

@@ -1,0 +1,107 @@
+.panel {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    width: 350px;
+    background-color: rgba(32, 32, 40, 0.95);
+    border-radius: 8px;
+    border-width: 1px;
+    border-color: rgba(100, 100, 250, 0.5);
+    padding: 10px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.5);
+}
+
+.header {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.title {
+    color: rgb(220, 220, 255);
+    font-size: 16px;
+    -unity-font-style: bold;
+}
+
+.close-button {
+    width: 24px;
+    height: 24px;
+    background-color: rgba(255, 70, 70, 0.8);
+    border-radius: 12px;
+    color: white;
+    border-width: 0;
+    font-size: 12px;
+    -unity-font-style: bold;
+}
+
+.content {
+    padding: 5px;
+}
+
+.controls-section {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.status-label {
+    color: rgb(200, 200, 200);
+    padding: 5px 0;
+    -unity-font-style: bold;
+}
+
+.button {
+    height: 32px;
+    margin: 3px 0;
+    border-radius: 4px;
+    border-width: 0;
+    -unity-font-style: bold;
+}
+
+.primary-button {
+    background-color: rgb(70, 110, 220);
+    color: white;
+}
+
+.secondary-button {
+    background-color: rgb(80, 90, 200);
+    color: white;
+}
+
+.stop-button {
+    background-color: rgb(220, 80, 80);
+    color: white;
+}
+
+.cancel-button {
+    background-color: rgb(220, 150, 50);
+    color: white;
+}
+
+.ready-button {
+    background-color: rgb(70, 180, 70);
+    color: white;
+}
+
+.horizontal-group {
+    flex-direction: row;
+    align-items: center;
+}
+
+.address-field {
+    flex-grow: 1;
+    height: 32px;
+    margin-left: 5px;
+    margin-right: 5px;
+    background-color: rgba(25, 25, 35, 0.8);
+    border-radius: 4px;
+    color: white;
+}
+
+.port-field {
+    width: 60px;
+    height: 32px;
+    background-color: rgba(25, 25, 35, 0.8);
+    border-radius: 4px;
+    color: white;
+}

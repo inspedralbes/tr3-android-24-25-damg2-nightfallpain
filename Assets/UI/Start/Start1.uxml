@@ -1,0 +1,7 @@
+<engine:UXML xmlns:engine="UnityEngine.UIElements" xmlns="UnityEngine.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/Start/Start1USS.uss?fileID=7433441132597879392&amp;guid=7c235455d62464aa1bc9c0f6c62fbd3e&amp;type=3#Start1USS" />
+    <engine:VisualElement name="BackGroundStart" class="root">
+        <engine:Label text="~~PRESS ANY  KEY   TO  START~~" name="Letra" />
+    </engine:VisualElement>
+    <engine:Button name="Bigbtn" selectable="true" />
+</engine:UXML>

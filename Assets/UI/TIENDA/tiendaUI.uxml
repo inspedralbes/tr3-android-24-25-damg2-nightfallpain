@@ -1,0 +1,99 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/TIENDA/tiendaStyle.uss?fileID=7433441132597879392&amp;guid=60dcd6a7e6e8ddd46a809c46f4752903&amp;type=3#tiendaStyle" />
+    <ui:VisualElement name="tienda-panel" style="position: absolute; width: 80%; height: 961px; top: 39px; left: 10%; background-color: rgb(30, 30, 60); border-radius: 10px; border-width: 2px; border-color: rgb(100, 100, 255); padding: 20px; flex-direction: column;">
+        <ui:VisualElement name="tienda-header" style="flex-direction: row; justify-content: space-between; align-items: center; margin-bottom: 15px; -unity-text-align: upper-center; width: 1507px; height: 72px;">
+            <ui:Label text="SHOP" style="color: rgb(253, 255, 0); font-size: 70px; -unity-font-style: bold-and-italic; text-shadow: 1px 1px 2px rgb(0, 0, 0); width: 1492px; height: 77px; -unity-font-definition: url(&quot;project://database/Assets/UI/Login/CyberwayRiders-lg97d.ttf?fileID=12800000&amp;guid=fd087ffa40601cb88bc04136f5f22aa1&amp;type=3#CyberwayRiders-lg97d&quot;); -unity-text-outline-width: 2px;" />
+        </ui:VisualElement>
+            <ui:VisualElement name="xp-container" style="position: absolute; top: 10px; right: 10px; flex-direction: row; align-items: center; background-color: rgba(0, 0, 0, 0.7); border-radius: 5px; padding: 5px 10px;">
+        <ui:Label text="XP:" style="color: rgb(255, 255, 0); font-size: 18px; -unity-font-style: bold;" />
+        <ui:Label name="experiencia-valor" text="7000" style="color: rgb(255, 255, 0); font-size: 18px; margin-left: 5px; -unity-font-style: bold;" />
+    </ui:VisualElement>
+        <ui:VisualElement name="mejoras-container" style="flex-grow: 1; flex-direction: row;">
+            <ui:VisualElement name="vida-container" class="upgrade-column" style="flex-grow: 1; margin-right: 10px;">
+                <ui:VisualElement class="upgrade-header" style="background-color: rgba(50, 150, 50, 0); padding: 10px; border-radius: 5px; background-image: url(&quot;project://database/Assets/Sprites/botton.png?fileID=2800000&amp;guid=b44ec4af3ef83d04ab65cad1ff9b4ddf&amp;type=3#botton&quot;); height: 115px;">
+                    <ui:Label text="HEALTH" style="color: rgb(253, 255, 0); font-size: 30px; -unity-font-style: italic; -unity-text-align: middle-center; height: 80px; -unity-font-definition: url(&quot;project://database/Assets/Sprites/fonts/Cyberpunks.otf?fileID=12800000&amp;guid=d1b0fdf8cadb177419fa6c5608d39665&amp;type=3#Cyberpunks&quot;);" />
+                </ui:VisualElement>
+                <ui:VisualElement class="upgrade-item">
+                    <ui:Label name="nivel-vida-1" text="Level 1" class="upgrade-title" style="-unity-font-definition: url(&quot;project://database/Assets/Mirror/Hosting/Edgegap/Editor/Fonts/Src/BaronNeue.otf?fileID=12800000&amp;guid=fb67205c672fbb04d829783b9f771fc9&amp;type=3#BaronNeue&quot;);" />
+                    <ui:VisualElement class="upgrade-details">
+                        <ui:Label text="+20 health" class="upgrade-effect" style="-unity-font-definition: url(&quot;project://database/Assets/Sprites/fonts/Cyberpunks.otf?fileID=12800000&amp;guid=d1b0fdf8cadb177419fa6c5608d39665&amp;type=3#Cyberpunks&quot;); font-size: 25px;" />
+                        <ui:VisualElement style="flex-direction: row; align-items: center;">
+                            <ui:Label text="Cost: " style="color: rgb(200, 200, 200);" />
+                            <ui:Label name="coste-vida-1" text="1000" style="color: rgb(255, 255, 0);" />
+                            <ui:Label text=" XP" style="color: rgb(200, 200, 200); margin-left: 2px;" />
+                        </ui:VisualElement>
+                    </ui:VisualElement>
+                    <ui:Button name="mejorar-vida-1" text="LEVEL UP" class="upgrade-button" style="-unity-font-definition: url(&quot;project://database/Assets/Sprites/fonts/Cyberpunks.ttf?fileID=12800000&amp;guid=0962ca0dffc6f1b4fb2c86ea067c8a4b&amp;type=3#Cyberpunks&quot;); font-size: 20px; color: rgb(253, 255, 0); -unity-font-style: bold-and-italic;" />
+                </ui:VisualElement>
+                <ui:VisualElement class="upgrade-item">
+                    <ui:Label name="nivel-vida-2" text="Level 2" class="upgrade-title" style="-unity-font-definition: url(&quot;project://database/Assets/Mirror/Hosting/Edgegap/Editor/Fonts/Src/BaronNeue.otf?fileID=12800000&amp;guid=fb67205c672fbb04d829783b9f771fc9&amp;type=3#BaronNeue&quot;);" />
+                    <ui:VisualElement class="upgrade-details">
+                        <ui:Label text="+30 health" class="upgrade-effect" style="font-size: 25px; -unity-font-definition: url(&quot;project://database/Assets/Sprites/fonts/Cyberpunks.otf?fileID=12800000&amp;guid=d1b0fdf8cadb177419fa6c5608d39665&amp;type=3#Cyberpunks&quot;);" />
+                        <ui:VisualElement style="flex-direction: row; align-items: center;">
+                            <ui:Label text="Cost:" style="color: rgb(200, 200, 200);" />
+                            <ui:Label name="coste-vida-2" text="2000" style="color: rgb(255, 255, 0);" />
+                            <ui:Label text=" XP" style="color: rgb(200, 200, 200); margin-left: 2px;" />
+                        </ui:VisualElement>
+                    </ui:VisualElement>
+                    <ui:Button name="mejorar-vida-2" text="LEVEL UP" class="upgrade-button" style="color: rgb(253, 255, 0); font-size: 25px; -unity-font-style: bold-and-italic; -unity-font-definition: url(&quot;project://database/Assets/Sprites/fonts/Cyberpunks.otf?fileID=12800000&amp;guid=d1b0fdf8cadb177419fa6c5608d39665&amp;type=3#Cyberpunks&quot;);" />
+                </ui:VisualElement>
+                <ui:VisualElement class="upgrade-item">
+                    <ui:Label name="nivel-vida-3" text="Level 3" class="upgrade-title" style="-unity-font-definition: url(&quot;project://database/Assets/Mirror/Hosting/Edgegap/Editor/Fonts/Src/BaronNeue.otf?fileID=12800000&amp;guid=fb67205c672fbb04d829783b9f771fc9&amp;type=3#BaronNeue&quot;);" />
+                    <ui:VisualElement class="upgrade-details">
+                        <ui:Label text="+50 health" class="upgrade-effect" style="font-size: 25px; -unity-font-definition: url(&quot;project://database/Assets/Sprites/fonts/Cyberpunks.otf?fileID=12800000&amp;guid=d1b0fdf8cadb177419fa6c5608d39665&amp;type=3#Cyberpunks&quot;);" />
+                        <ui:VisualElement style="flex-direction: row; align-items: center;">
+                            <ui:Label text="Cost:" style="color: rgb(200, 200, 200);" />
+                            <ui:Label name="coste-vida-3" text="3000" style="color: rgb(255, 255, 0);" />
+                            <ui:Label text=" XP" style="color: rgb(200, 200, 200); margin-left: 2px;" />
+                        </ui:VisualElement>
+                    </ui:VisualElement>
+                    <ui:Button name="mejorar-vida-3" text="LEVEL UP" class="upgrade-button" style="font-size: 25px; -unity-font-style: bold-and-italic; -unity-font-definition: url(&quot;project://database/Assets/Sprites/fonts/Cyberpunks.otf?fileID=12800000&amp;guid=d1b0fdf8cadb177419fa6c5608d39665&amp;type=3#Cyberpunks&quot;); color: rgb(253, 255, 0);" />
+                </ui:VisualElement>
+            </ui:VisualElement>
+            <ui:VisualElement name="municion-container" class="upgrade-column" style="flex-grow: 1; margin-left: 10px;">
+                <ui:VisualElement class="upgrade-header" style="background-color: rgba(150, 50, 50, 0); padding: 10px; border-radius: 5px; height: 116px; background-image: url(&quot;project://database/Assets/Sprites/botton.png?fileID=2800000&amp;guid=b44ec4af3ef83d04ab65cad1ff9b4ddf&amp;type=3#botton&quot;);">
+                    <ui:Label text="MUNITION" style="color: rgb(253, 255, 0); font-size: 30px; -unity-font-style: bold-and-italic; -unity-text-align: middle-center; height: 76px; -unity-font-definition: url(&quot;project://database/Assets/Sprites/fonts/Cyberpunks.otf?fileID=12800000&amp;guid=d1b0fdf8cadb177419fa6c5608d39665&amp;type=3#Cyberpunks&quot;);" />
+                </ui:VisualElement>
+                <ui:VisualElement class="upgrade-item">
+                    <ui:Label name="nivel-municion-1" text="Level 1" class="upgrade-title" style="-unity-font-definition: url(&quot;project://database/Assets/Mirror/Hosting/Edgegap/Editor/Fonts/Src/BaronNeue.otf?fileID=12800000&amp;guid=fb67205c672fbb04d829783b9f771fc9&amp;type=3#BaronNeue&quot;);" />
+                    <ui:VisualElement class="upgrade-details">
+                        <ui:Label text="+5 bullet" class="upgrade-effect" style="font-size: 25px; -unity-font-definition: url(&quot;project://database/Assets/Sprites/fonts/Cyberpunks.otf?fileID=12800000&amp;guid=d1b0fdf8cadb177419fa6c5608d39665&amp;type=3#Cyberpunks&quot;);" />
+                        <ui:VisualElement style="flex-direction: row; align-items: center;">
+                            <ui:Label text="Cost: " style="color: rgb(200, 200, 200);" />
+                            <ui:Label name="coste-municion-1" text="800" style="color: rgb(255, 255, 0);" />
+                            <ui:Label text=" XP" style="color: rgb(200, 200, 200); margin-left: 2px;" />
+                        </ui:VisualElement>
+                    </ui:VisualElement>
+                    <ui:Button name="mejorar-municion-1" text="LEVEL UP" class="upgrade-button" style="font-size: 25px; -unity-font-definition: url(&quot;project://database/Assets/Sprites/fonts/Cyberpunks.otf?fileID=12800000&amp;guid=d1b0fdf8cadb177419fa6c5608d39665&amp;type=3#Cyberpunks&quot;); -unity-font-style: bold-and-italic; color: rgb(253, 255, 0);" />
+                </ui:VisualElement>
+                <ui:VisualElement class="upgrade-item">
+                    <ui:Label name="nivel-municion-2" text="Level 2" class="upgrade-title" style="-unity-font-definition: url(&quot;project://database/Assets/Mirror/Hosting/Edgegap/Editor/Fonts/Src/BaronNeue.otf?fileID=12800000&amp;guid=fb67205c672fbb04d829783b9f771fc9&amp;type=3#BaronNeue&quot;);" />
+                    <ui:VisualElement class="upgrade-details">
+                        <ui:Label text="+5 bullet" class="upgrade-effect" style="-unity-font-definition: url(&quot;project://database/Assets/Sprites/fonts/Cyberpunks.otf?fileID=12800000&amp;guid=d1b0fdf8cadb177419fa6c5608d39665&amp;type=3#Cyberpunks&quot;); font-size: 25px;" />
+                        <ui:VisualElement style="flex-direction: row; align-items: center;">
+                            <ui:Label text="Cost:" style="color: rgb(200, 200, 200);" />
+                            <ui:Label name="coste-municion-2" text="1500" style="color: rgb(255, 255, 0);" />
+                            <ui:Label text=" XP" style="color: rgb(200, 200, 200); margin-left: 2px;" />
+                        </ui:VisualElement>
+                    </ui:VisualElement>
+                    <ui:Button name="mejorar-municion-2" text="LEVEL UP" class="upgrade-button" style="color: rgb(253, 255, 0); -unity-font-definition: url(&quot;project://database/Assets/Sprites/fonts/Cyberpunks.otf?fileID=12800000&amp;guid=d1b0fdf8cadb177419fa6c5608d39665&amp;type=3#Cyberpunks&quot;); -unity-font-style: bold-and-italic; font-size: 25px;" />
+                </ui:VisualElement>
+                <ui:VisualElement class="upgrade-item">
+                    <ui:Label name="nivel-municion-3" text="Level 3" class="upgrade-title" style="-unity-font-definition: url(&quot;project://database/Assets/Mirror/Hosting/Edgegap/Editor/Fonts/Src/BaronNeue.otf?fileID=12800000&amp;guid=fb67205c672fbb04d829783b9f771fc9&amp;type=3#BaronNeue&quot;);" />
+                    <ui:VisualElement class="upgrade-details">
+                        <ui:Label text="+5 bullet" class="upgrade-effect" style="font-size: 25px; -unity-font-definition: url(&quot;project://database/Assets/Sprites/fonts/Cyberpunks.otf?fileID=12800000&amp;guid=d1b0fdf8cadb177419fa6c5608d39665&amp;type=3#Cyberpunks&quot;);" />
+                        <ui:VisualElement style="flex-direction: row; align-items: center;">
+                            <ui:Label text="Cost:" style="color: rgb(200, 200, 200);" />
+                            <ui:Label name="coste-municion-3" text="2500" style="color: rgb(255, 255, 0);" />
+                            <ui:Label text=" XP" style="color: rgb(200, 200, 200); margin-left: 2px;" />
+                        </ui:VisualElement>
+                    </ui:VisualElement>
+                    <ui:Button name="mejorar-municion-3" text="LEVEL UP" class="upgrade-button" style="font-size: 25px; -unity-font-definition: url(&quot;project://database/Assets/Sprites/fonts/Cyberpunks.otf?fileID=12800000&amp;guid=d1b0fdf8cadb177419fa6c5608d39665&amp;type=3#Cyberpunks&quot;); color: rgb(253, 255, 0);" />
+                </ui:VisualElement>
+            </ui:VisualElement>
+        </ui:VisualElement>
+        <ui:VisualElement style="margin-top: 15px;" />
+        <ui:Label text="Press &apos;T&apos; to open/close the store" style="color: rgb(253, 255, 0); font-size: 25px; -unity-text-align: middle-center; margin-top: 10px; height: 48px; -unity-font-definition: url(&quot;project://database/Assets/Sprites/fonts/Cyberpunks.otf?fileID=12800000&amp;guid=d1b0fdf8cadb177419fa6c5608d39665&amp;type=3#Cyberpunks&quot;); background-color: rgba(0, 0, 0, 0); -unity-text-outline-width: 2px; text-shadow: 0 0 0 rgb(0, 0, 0); -unity-font-style: bold-and-italic;" />
+        <ui:Button name="cerrar-boton" text="X" style="background-color: rgb(200, 50, 50); color: white; font-size: 16px; width: 319px; height: 30px; border-radius: 15px; -unity-font-style: bold; white-space: nowrap; -unity-text-align: middle-center;" />
+    </ui:VisualElement>
+</ui:UXML>

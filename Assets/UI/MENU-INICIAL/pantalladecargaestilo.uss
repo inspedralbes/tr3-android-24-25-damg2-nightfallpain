@@ -1,0 +1,4 @@
+#start-now-button:hover {
+    background-color: rgba(30, 35, 60, 0.8);
+    cursor: pointer;
+}

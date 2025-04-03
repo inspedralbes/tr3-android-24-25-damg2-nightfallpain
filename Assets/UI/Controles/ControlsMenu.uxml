@@ -1,0 +1,66 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/Controles/ContolesDise%C3%B1o.uss?fileID=7433441132597879392&amp;guid=d47027d0c43a1f24d89e43e8fd4690d9&amp;type=3#ContolesDiseño" />
+    <ui:VisualElement name="controls-overlay" class="controls-overlay" style="position: absolute; left: 0; top: 0; right: 0; bottom: 0; width: 100%; height: 100%;">
+        <ui:VisualElement name="controls-panel" class="controls-panel" style="position: absolute; left: 50%; top: 50%; translate: -50% -50%; width: 992px; height: 686px;">
+            <ui:VisualElement name="controls-header" class="controls-header">
+                <ui:Label text="GAME CONTROLS" class="controls-title" style="-unity-font-definition: url(&quot;project://database/Assets/Sprites/fonts/Cyberpunks.otf?fileID=12800000&amp;guid=d1b0fdf8cadb177419fa6c5608d39665&amp;type=3#Cyberpunks&quot;); font-size: 60px; -unity-font-style: bold-and-italic; -unity-text-outline-color: rgb(0, 0, 0); -unity-text-outline-width: 5px;" />
+            </ui:VisualElement>
+            <ui:VisualElement name="controls-content" class="controls-content">
+                <ui:VisualElement name="movement-section" class="control-section" style="background-color: rgba(0, 0, 0, 0.78);">
+                    <ui:Label text="MOVEMENT" class="section-title" style="-unity-font-definition: url(&quot;project://database/Assets/UI/Login/CyberwayRiders-lg97d.ttf?fileID=12800000&amp;guid=fd087ffa40601cb88bc04136f5f22aa1&amp;type=3#CyberwayRiders-lg97d&quot;); -unity-text-outline-color: rgb(0, 0, 0); -unity-text-outline-width: 1px; -unity-font-style: bold-and-italic; font-size: 28px;" />
+                    <ui:VisualElement class="control-row">
+                        <ui:VisualElement class="key-container">
+                            <ui:Label text="W" class="key-label" />
+                        </ui:VisualElement>
+                        <ui:Label text="Move Forward" class="control-description" style="-unity-font-definition: url(&quot;project://database/Assets/Sprites/fonts/Cyberpunks.otf?fileID=12800000&amp;guid=d1b0fdf8cadb177419fa6c5608d39665&amp;type=3#Cyberpunks&quot;);" />
+                    </ui:VisualElement>
+                    <ui:VisualElement class="control-row">
+                        <ui:VisualElement class="key-container">
+                            <ui:Label text="A" class="key-label" />
+                        </ui:VisualElement>
+                        <ui:Label text="Move Left" class="control-description" style="-unity-font-definition: url(&quot;project://database/Assets/Sprites/fonts/Cyberpunks.otf?fileID=12800000&amp;guid=d1b0fdf8cadb177419fa6c5608d39665&amp;type=3#Cyberpunks&quot;);" />
+                    </ui:VisualElement>
+                    <ui:VisualElement class="control-row">
+                        <ui:VisualElement class="key-container">
+                            <ui:Label text="S" class="key-label" />
+                        </ui:VisualElement>
+                        <ui:Label text="Move Backward" class="control-description" style="-unity-font-definition: url(&quot;project://database/Assets/Sprites/fonts/Cyberpunks.otf?fileID=12800000&amp;guid=d1b0fdf8cadb177419fa6c5608d39665&amp;type=3#Cyberpunks&quot;);" />
+                    </ui:VisualElement>
+                    <ui:VisualElement class="control-row">
+                        <ui:VisualElement class="key-container">
+                            <ui:Label text="D" class="key-label" />
+                        </ui:VisualElement>
+                        <ui:Label text="Move Right" class="control-description" style="-unity-font-definition: url(&quot;project://database/Assets/Sprites/fonts/Cyberpunks.otf?fileID=12800000&amp;guid=d1b0fdf8cadb177419fa6c5608d39665&amp;type=3#Cyberpunks&quot;);" />
+                    </ui:VisualElement>
+                </ui:VisualElement>
+                <ui:VisualElement name="combat-section" class="control-section" style="background-color: rgba(0, 0, 0, 0.78);">
+                    <ui:Label text="COMBAT" class="section-title" style="-unity-font-definition: url(&quot;project://database/Assets/UI/Login/CyberwayRiders-lg97d.ttf?fileID=12800000&amp;guid=fd087ffa40601cb88bc04136f5f22aa1&amp;type=3#CyberwayRiders-lg97d&quot;); -unity-text-outline-width: 2px; -unity-text-outline-color: rgb(0, 0, 0); -unity-font-style: bold-and-italic; font-size: 28px;" />
+                    <ui:VisualElement class="control-row">
+                        <ui:VisualElement class="key-container mouse-container">
+                            <ui:VisualElement class="mouse-icon" />
+                        </ui:VisualElement>
+                        <ui:Label text="Aim Weapon" class="control-description" style="-unity-font-definition: url(&quot;project://database/Assets/Sprites/fonts/Cyberpunks.otf?fileID=12800000&amp;guid=d1b0fdf8cadb177419fa6c5608d39665&amp;type=3#Cyberpunks&quot;);" />
+                    </ui:VisualElement>
+                    <ui:VisualElement class="control-row">
+                        <ui:VisualElement class="key-container mouse-left">
+                            <ui:Label text="LMB" class="key-label small-text" />
+                        </ui:VisualElement>
+                        <ui:Label text="Fire Weapon" class="control-description" style="-unity-font-definition: url(&quot;project://database/Assets/Sprites/fonts/Cyberpunks.otf?fileID=12800000&amp;guid=d1b0fdf8cadb177419fa6c5608d39665&amp;type=3#Cyberpunks&quot;);" />
+                    </ui:VisualElement>
+                </ui:VisualElement>
+                <ui:VisualElement name="special-section" class="control-section" style="background-color: rgba(0, 0, 0, 0.78);">
+                    <ui:Label text="SPECIAL ABILITIES" class="section-title" style="-unity-font-definition: url(&quot;project://database/Assets/UI/Login/CyberwayRiders-lg97d.ttf?fileID=12800000&amp;guid=fd087ffa40601cb88bc04136f5f22aa1&amp;type=3#CyberwayRiders-lg97d&quot;); -unity-text-outline-width: 2px; -unity-text-outline-color: rgb(0, 0, 0); -unity-font-style: bold-and-italic; font-size: 28px;" />
+                    <ui:VisualElement class="control-row">
+                        <ui:VisualElement class="key-container wide-key">
+                            <ui:Label text="SHIFT" class="key-label" />
+                        </ui:VisualElement>
+                        <ui:Label text="Freeze Time" class="control-description" style="-unity-font-definition: url(&quot;project://database/Assets/Sprites/fonts/Cyberpunks.otf?fileID=12800000&amp;guid=d1b0fdf8cadb177419fa6c5608d39665&amp;type=3#Cyberpunks&quot;);" />
+                    </ui:VisualElement>
+                </ui:VisualElement>
+            </ui:VisualElement>
+            <ui:VisualElement name="controls-footer" class="controls-footer">
+                <ui:Button name="backButton" text="BACK" class="back-button" style="-unity-font-definition: url(&quot;project://database/Assets/UI/Login/CyberwayRiders-lg97d.ttf?fileID=12800000&amp;guid=fd087ffa40601cb88bc04136f5f22aa1&amp;type=3#CyberwayRiders-lg97d&quot;);" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

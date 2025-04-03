@@ -1,0 +1,158 @@
+.controls-overlay {
+    background-color: rgba(0, 0, 0, 0.75);
+    transition: all 0.3s ease-in-out;
+}
+
+.controls-panel {
+    width: 800px;
+    height: 600px;
+    background-image: url("project://database/Assets/Sprites/pausa.png.png");
+    background-size: cover;
+    border-radius: 15px;
+    overflow: hidden;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    transition: all 0.3s ease-in-out;
+    border-width: 3px;
+    border-color: rgba(255, 217, 0, 0.8);
+}
+
+.controls-header {
+    width: 100%;
+    height: 80px;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.controls-title {
+    font-size: 48px;
+    -unity-font-style: bold-italic;
+    color: rgb(255, 217, 0);
+    -unity-text-outline-width: 2px;
+    -unity-text-outline-color: rgb(0, 0, 0);
+    letter-spacing: 2px;
+}
+
+.controls-content {
+    flex-grow: 1;
+    width: 90%;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.control-section {
+    width: 45%;
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    border-width: 2px;
+    border-color: rgba(255, 217, 0, 0.4);
+}
+
+.section-title {
+    font-size: 24px;
+    -unity-font-style: bold;
+    color: rgb(255, 217, 0);
+    margin-bottom: 10px;
+    -unity-text-align: middle-center;
+    letter-spacing: 1px;
+}
+
+.control-row {
+    flex-direction: row;
+    align-items: center;
+    margin: 8px 0;
+}
+
+.key-container {
+    width: 40px;
+    height: 40px;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 5px;
+    border-width: 2px;
+    border-color: rgba(255, 217, 0, 0.6);
+    align-items: center;
+    justify-content: center;
+    margin-right: 15px;
+}
+
+.wide-key {
+    width: 80px;
+}
+
+.mouse-container {
+    width: 30px;
+    height: 50px;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 15px;
+}
+
+.mouse-left {
+    width: 40px;
+    height: 25px;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    border-top-left-radius: 12px;
+    border-bottom-left-radius: 12px;
+}
+
+.mouse-icon {
+    width: 20px;
+    height: 40px;
+    background-color: rgba(255, 217, 0, 0.3);
+    border-radius: 10px;
+    border-width: 1px;
+    border-color: rgba(255, 217, 0, 0.8);
+}
+
+.key-label {
+    font-size: 18px;
+    -unity-font-style: bold;
+    color: rgb(255, 217, 0);
+}
+
+.small-text {
+    font-size: 14px;
+}
+
+.control-description {
+    flex-grow: 1;
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+}
+
+.controls-footer {
+    width: 100%;
+    height: 60px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.back-button {
+    width: 200px;
+    height: 50px;
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 25px;
+    border-width: 2px;
+    border-color: rgba(255, 217, 0, 0.8);
+    font-size: 22px;
+    -unity-font-style: bold;
+    color: rgb(255, 217, 0);
+    transition: all 0.2s ease-in-out;
+}
+
+.back-button:hover {
+    background-color: rgba(255, 217, 0, 0.3);
+    scale: 1.05;
+}
+
+.back-button:active {
+    background-color: rgba(255, 217, 0, 0.5);
+    scale: 0.95;
+}

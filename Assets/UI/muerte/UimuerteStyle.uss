@@ -1,0 +1,54 @@
+.full-screen {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(180, 0, 0, 0.5);
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease-in;
+}
+
+.death-container {
+    width: 500px;
+    height: 300px;
+    background-color: rgba(50, 0, 0, 0.9);
+    border-width: 4px;
+    border-color: rgb(200, 0, 0);
+    border-radius: 15px;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    flex-direction: column;
+}
+
+.death-text {
+    font-size: 42px;
+    color: rgb(255, 0, 0);
+    -unity-font-style: bold;
+    margin-bottom: 40px;
+    -unity-text-align: middle-center;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8);
+}
+
+.retry-button {
+    width: 250px;
+    height: 60px;
+    background-color: rgb(180, 0, 0);
+    color: white;
+    border-radius: 8px;
+    font-size: 24px;
+    -unity-font-style: bold;
+    transition: all 0.2s ease-out;
+    border-width: 2px;
+    border-color: rgb(255, 100, 100);
+}
+
+.retry-button:hover {
+    background-color: rgb(220, 0, 0);
+    scale: 1.05;
+}
+
+.retry-button:active {
+    background-color: rgb(150, 0, 0);
+    scale: 0.95;
+}
