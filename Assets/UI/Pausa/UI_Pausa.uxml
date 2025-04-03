@@ -1,0 +1,15 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/Pausa/Pausa.uss?fileID=7433441132597879392&amp;guid=c0f66571225c1a44fa19a07c0aa20cce&amp;type=3#Pausa" />
+    <ui:VisualElement name="overlay" class="overlay">
+        <ui:VisualElement name="pauseMenu" enabled="true" class="pause-menu" style="background-image: url(&quot;project://database/Assets/Sprites/pausa.png.png?fileID=2800000&amp;guid=3a98c585eb221b2489fc4d53f578a54e&amp;type=3#pausa.png&quot;); width: 1293px; border-left-color: rgba(0, 0, 0, 0); border-right-color: rgba(0, 0, 0, 0); border-top-color: rgba(0, 0, 0, 0); border-bottom-color: rgba(0, 0, 0, 0); height: 532px;">
+            <ui:VisualElement name="header" class="header" style="border-left-color: rgba(0, 0, 0, 0); border-right-color: rgba(0, 0, 0, 0); border-top-color: rgba(0, 0, 0, 0); border-bottom-color: rgba(0, 0, 0, 0);">
+                <ui:Label text="PAUSE" class="pause-title" style="border-left-color: rgba(0, 0, 0, 0); border-right-color: rgba(0, 0, 0, 0); border-top-color: rgba(0, 0, 0, 0); border-bottom-color: rgba(0, 0, 0, 0); -unity-font-style: italic; -unity-text-outline-color: rgb(0, 0, 0); -unity-text-outline-width: 2px;" />
+            </ui:VisualElement>
+            <ui:VisualElement name="menu-container" class="menu-container">
+                <ui:Button name="resumeButton" text="RESUME" class="menu-button" />
+                <ui:Button name="optionsButton" text="CONTROLS" class="menu-button" />
+                <ui:Button name="quitButton" text="EXIT" class="menu-button" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

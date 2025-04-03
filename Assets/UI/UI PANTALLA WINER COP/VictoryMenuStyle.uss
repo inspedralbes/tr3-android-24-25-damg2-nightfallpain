@@ -1,0 +1,81 @@
+.container {
+    flex-grow: 1;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.victory-panel {
+    width: 600px;
+    height: 400px;
+    background-color: #2B2D42;
+    border-radius: 20px;
+    border-width: 4px;
+    border-color: #FFD700;
+    padding: 20px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.victory-header {
+    font-size: 48px;
+    color: #FFD700;
+    -unity-font-style: bold;
+    margin: 20px 0;
+    -unity-text-align: middle-center;
+}
+
+.congrats-text {
+    font-size: 24px;
+    color: #EDF2F4;
+    -unity-text-align: middle-center;
+    margin: 20px 0;
+    white-space: normal;
+    width: 80%;
+}
+
+.star {
+    width: 40px;
+    height: 40px;
+    background-image: url('project:StarIcon');
+    margin: 0 5px;
+}
+
+.stars-container {
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+.button-container {
+    width: 100%;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.return-button {
+    width: 200px;
+    height: 60px;
+    font-size: 20px;
+    background-color: #D90429;
+    color: white;
+    border-radius: 30px;
+    border-width: 0;
+    padding: 10px;
+    -unity-font-style: bold;
+    transition-duration: 0.2s;
+}
+
+.return-button:hover {
+    background-color: #EF233C;
+    scale: 1.05;
+}
+
+.shimmer {
+    background: linear-gradient(90deg, rgba(255,215,0,0) 0%, rgba(255,215,0,0.5) 50%, rgba(255,215,0,0) 100%);
+    width: 100%;
+    height: 2px;
+    margin: 15px 0;
+}

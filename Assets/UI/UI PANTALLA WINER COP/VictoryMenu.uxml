@@ -1,0 +1,12 @@
+<UXML xmlns="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/UI%20PANTALLA%20WINER%20COP/VictoryMenuStyle.uss?fileID=7433441132597879392&amp;guid=872d798a67e7c1a4f97ab910ebcb266f&amp;type=3#VictoryMenuStyle" />
+    <VisualElement name="Container" class="container">
+        <VisualElement name="VictoryPanel" class="victory-panel" style="height: 450px;">
+            <Label name="VictoryHeader" text="VICTORY  !" class="victory-header" style="-unity-font-definition: url(&quot;project://database/Assets/UI/Login/CyberwayRiders-lg97d.ttf?fileID=12800000&amp;guid=fd087ffa40601cb88bc04136f5f22aa1&amp;type=3#CyberwayRiders-lg97d&quot;); font-size: 70px; -unity-font-style: bold;" />
+            <Label name="CongratsText" text="Congratulations! You won the 1v1 duel. You are the champion!" class="congrats-text" style="height: 91px; -unity-font-definition: url(&quot;project://database/Assets/Sprites/fonts/Cyberpunks.ttf?fileID=12800000&amp;guid=0962ca0dffc6f1b4fb2c86ea067c8a4b&amp;type=3#Cyberpunks&quot;); font-size: 30px;" />
+            <VisualElement class="button-container">
+                <Button name="ReturnButton" text="MENU" class="return-button" style="-unity-font-definition: url(&quot;project://database/Assets/Sprites/fonts/Cyberpunks.otf?fileID=12800000&amp;guid=d1b0fdf8cadb177419fa6c5608d39665&amp;type=3#Cyberpunks&quot;); color: rgb(255, 215, 0); background-color: rgba(217, 4, 41, 0); background-image: url(&quot;project://database/Assets/Sprites/botton.png?fileID=2800000&amp;guid=b44ec4af3ef83d04ab65cad1ff9b4ddf&amp;type=3#botton&quot;); width: 247px; height: 77px; font-size: 25px; -unity-font-style: italic;" />
+            </VisualElement>
+        </VisualElement>
+    </VisualElement>
+</UXML>

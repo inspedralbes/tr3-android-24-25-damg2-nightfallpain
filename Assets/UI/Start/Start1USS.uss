@@ -1,0 +1,33 @@
+.root {
+    width: 1920px;
+    height: 1080px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: green;
+}
+
+#Letra {
+    font-size: 50px;
+    background-image: url("project://database/Assets/uitoolkit/photo-1604147706283-d7119b5b822c.jpeg?fileID=7043050782698255363&guid=067ebc001ae4ca0e68ba409c5938ae7a&type=3#photo-1604147706283-d7119b5b822c_0");
+    -unity-background-image-tint-color: rgba(0, 0, 0, 0.24);
+    -unity-font-definition: url("project://database/Assets/uitoolkit/CyberwayRiders-lg97d.ttf?fileID=12800000&guid=fd087ffa40601cb88bc04136f5f22aa1&type=3#CyberwayRiders-lg97d");
+    color: rgb(254, 87, 237);
+    top: 250px;
+    letter-spacing: 20px;
+    -unity-text-outline-color: rgba(255, 0, 232, 0.96);
+    word-spacing: 12px;
+    -unity-text-outline-width: 30px;
+}
+
+#BackGroundStart {
+    background-image: url("project://database/Assets/uitoolkit/NightMain.png?fileID=7625832963089836263&guid=0b2d2373ab6c16aa7ba6e021c3658c31&type=3#NightMain_0");
+}
+
+#Bigbtn {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: transparent;
+    border: none;
+}

@@ -1,0 +1,7 @@
+#registerButton:hover {
+    scale: 1.05;
+    color: rgb(0, 255, 255);
+    text-shadow: 0 0 8px rgba(0, 255, 255, 0.8);
+    background-image: url("project://database/Assets/Sprites/botton.png?fileID=8310244238000768649&guid=b44ec4af3ef83d04ab65cad1ff9b4ddf&type=3#botton_0");
+    -unity-background-image-tint-color: rgb(150, 255, 255);
+}
